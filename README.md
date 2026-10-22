@@ -30,7 +30,7 @@ flowchart LR
     end
 
     E --> F["Price ± 15%<br/>rounded to ₹500"]
-    F --> G["📊 Price range shown<br/>in the app"]
+    F --> G["Price range shown<br/>in the app"]
 ```
 ---
 
